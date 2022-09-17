@@ -9,6 +9,8 @@ use lazy_static::lazy_static;
 use regex::Regex;
 use structopt::StructOpt;
 
+// dummy comment
+
 #[derive(StructOpt, Debug)]
 #[structopt(name = "xclips")]
 struct Opt {
